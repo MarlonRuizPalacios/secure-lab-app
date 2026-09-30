@@ -9,6 +9,7 @@ app.get('/', (req, res) => {
     application: 'Secure Lab App',
     version: '1.0.0',
     environment
+    message: 'Specialization Security Lab'
   });
 });
 
